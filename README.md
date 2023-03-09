@@ -7,9 +7,10 @@ Arbeitstyp: Einzelarbeit
 ================================
 
 Formel: Berechnung der Dreiecksfläche
-flaeche=(a∗h)/2
-a: Grundseite
+### flaeche=(a∗h)/2
+#### a: Grundseite 
 h: Höhe (senkrecht stehend auf der Grundseite)
+
 ================================
 1. Lesen Sie Grundseite und Höhe (jeweils als ganze Zahl) ein
 
